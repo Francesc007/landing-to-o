@@ -1,0 +1,9 @@
+{
+    "redirects": [
+      {
+        "source": "/frimac.html",
+        "destination": "/",
+        "permanent": true
+      }
+    ]
+  }
